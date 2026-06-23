@@ -12,7 +12,7 @@ An archive of my technical certifications, hackathon achievements, professional 
 | **Communications Engineering Masterclass** | StudyIn King's College London | 27th February 2026 |
 | **Round 1 - Online MCQ [Multiple Choice Question] Assessment + Coding of Adobe India Hackathon** | Adobe via Unstop | 2026 |
 | **CodeXplosion Competition - A time Bound DSA [Data Structures and Algorithms] Competition** | Sharda University | 5th February 2026 |
-| **Techquezt #28 - Tech in India** | Naukri Campus | 15th February 2026 |
+| **Techquezt #28 - Tech in India Rank 81/643** | Naukri Campus | 15th February 2026 |
 | **Online Quiz of Squid Game: Escape Room** | IIIT [Indian Institute of Information Technology], Surat via Unstop | 2026 |
 
 ---
