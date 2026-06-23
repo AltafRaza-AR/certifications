@@ -12,10 +12,11 @@ An archive of my technical certifications, hackathon achievements, professional 
 | **Communications Engineering Masterclass** | StudyIn King's College London | 27th February 2026 |
 | **Round 1 - Online MCQ [Multiple Choice Question] Assessment + Coding of Adobe India Hackathon** | Adobe via Unstop | 2026 |
 | **CodeXplosion Competition - A time Bound DSA [Data Structures and Algorithms] Competition** | Sharda University | 5th February 2026 |
+| **Techquezt #28 - Tech in India** | Naukri Campus | 15th February 2026 |
 | **Online Quiz of Squid Game: Escape Room** | IIIT [Indian Institute of Information Technology], Surat via Unstop | 2026 |
 
 ---
-*Note: The actual PDF [Portable Document Format] certificate files can be viewed and downloaded directly from this repository.*
+*Note: The actual PDF [Portable Document Format] and image files can be viewed and downloaded directly from this repository.*
 
 ## 🇮🇳 Civic Engagement & General Knowledge Quizzes
 
@@ -31,4 +32,4 @@ A collection of participation certificates for national-level awareness quizzes 
 | **Quiz on Women in India's Freedom Movement** | MYBharat (Ministry of Youth Affairs & Sports) | 23 June 2026 |
 | **Slogans of India Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 28 February 2026 |
 | **MY Bharat Budget Quest 2026** | MYBharat (Ministry of Youth Affairs & Sports) | 17 February 2026 |
-| **Know more about DFPD - II** | MYBharat (Ministry of Youth Affairs & Sports) | 17 February 2026 | 
+| **Know more about DFPD - II** | MYBharat (Ministry of Youth Affairs & Sports) | 17 February 2026 |
