@@ -14,7 +14,7 @@ An archive of my technical certifications, hackathon achievements, professional 
 | **CodeXplosion Competition - A time Bound DSA Competition** | Sharda University | 5th February 2026 |
 | **Techquezt #28 - Tech in India** | Naukri Campus Rank 81/643| 15th February 2026 |
 | **Online Quiz of Squid Game: Escape Room** | IIIT Surat via Unstop | 2026 |
-
+| **Google Cloud's Generative AI Explorer - Vertex AI** | Google | July 2026 |
 ---
 *Note: The actual PDF and image files can be viewed and downloaded directly from this repository.*
 
