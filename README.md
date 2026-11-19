@@ -34,3 +34,10 @@ A collection of participation certificates for national-level awareness quizzes 
 | **MY Bharat Budget Quest 2026** | MYBharat | 17 February 2026 |
 | **Know more about DFPD - II** | MYBharat | 17 February 2026 |
 | **Constitution Day Quiz 2026** | MYBharat | 20 November 2026 |
+| **National Education Day Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Salt Unlocked: How Well Do You Know Salt?** | MYBharat, CSIR-CSMCRI, Bhavnagar | 20 November 2026 |
+| **Banking Meets Tech Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Khelo Bharat: From Manufacturing to Podium Finish Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Nasha Mukti Yuva, Viksit Bharat Quiz** | Ministry of Social Justice and Empowerment | 20 November 2026 |
+| **Current Affair Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **GK Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
