@@ -33,3 +33,4 @@ A collection of participation certificates for national-level awareness quizzes 
 | **Slogans of India Quiz** | MYBharat | 28 February 2026 |
 | **MY Bharat Budget Quest 2026** | MYBharat | 17 February 2026 |
 | **Know more about DFPD - II** | MYBharat | 17 February 2026 |
+| **Constitution Day Quiz 2026** | MYBharat | 20 November 2026 |
