@@ -41,3 +41,4 @@ A collection of participation certificates for national-level awareness quizzes 
 | **Nasha Mukti Yuva, Viksit Bharat Quiz** | Ministry of Social Justice and Empowerment | 20 November 2026 |
 | **Current Affair Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
 | **GK Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Viksit Bharat Young Leaders Dialogue (VBYLD) Essay 2027** | MYBharat (Ministry of Youth Affairs & Sports) | 21 October 2026 |
