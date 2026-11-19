@@ -6,15 +6,15 @@ An archive of my technical certifications, hackathon achievements, professional 
 
 | Certification Name | Issuing Organization | Date Earned |
 | :--- | :--- | :--- |
-| **Artificial Intelligence with Machine Learning in Java – English** | Oracle Academy & Sharda University | 31st of October, 2025 |
-| **Database Programming with PL/SQL & Database Foundations** | Oracle Academy | 1st November 2024 |
+| **Google Cloud's Generative AI Explorer - Vertex AI** | Google | July 2026 |
 | **Leadership and Team Effectiveness (78% Score)** | NPTEL, IIT Roorkee | Jan - Apr 2026 |
 | **Communications Engineering Masterclass** | StudyIn King's College London | 27th February 2026 |
-| **Round 1 - Online MCQ Assessment + Coding of Adobe India Hackathon** | Adobe via Unstop | 2026 |
+| **Techquezt #28 - Tech in India** | Naukri Campus Rank 81/643 | 15th February 2026 |
 | **CodeXplosion Competition - A time Bound DSA Competition** | Sharda University | 5th February 2026 |
-| **Techquezt #28 - Tech in India** | Naukri Campus Rank 81/643| 15th February 2026 |
+| **Round 1 - Online MCQ Assessment + Coding of Adobe India Hackathon** | Adobe via Unstop | 2026 |
 | **Online Quiz of Squid Game: Escape Room** | IIIT Surat via Unstop | 2026 |
-| **Google Cloud's Generative AI Explorer - Vertex AI** | Google | July 2026 |
+| **Artificial Intelligence with Machine Learning in Java – English** | Oracle Academy & Sharda University | 31st of October, 2025 |
+| **Database Programming with PL/SQL & Database Foundations** | Oracle Academy | 1st November 2024 |
 ---
 *Note: The actual PDF and image files can be viewed and downloaded directly from this repository.*
 
@@ -24,21 +24,21 @@ A collection of participation certificates for national-level awareness quizzes 
 
 | Quiz Title | Issuing Organization | Participation Date |
 | :--- | :--- | :--- |
+| **Banking Meets Tech Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Current Affair Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Constitution Day Quiz 2026** | MYBharat | 20 November 2026 |
+| **GK Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Khelo Bharat: From Manufacturing to Podium Finish Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Nasha Mukti Yuva, Viksit Bharat Quiz** | Ministry of Social Justice and Empowerment | 20 November 2026 |
+| **National Education Day Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
+| **Salt Unlocked: How Well Do You Know Salt?** | MYBharat, CSIR-CSMCRI, Bhavnagar | 20 November 2026 |
+| **Viksit Bharat Young Leaders Dialogue (VBYLD) Essay 2027** | MYBharat (Ministry of Youth Affairs & Sports) | 21 October 2026 |
 | **Quiz on Constitution of India** | MYBharat (Ministry of Youth Affairs & Sports) | 23 June 2026 |
 | **Public Grievance Redressal & CPGRAMS Awareness Quiz** | MYBharat | 23 June 2026 |
-| **Quiz on Major Milestone of Modern India** | MYBharat  | 23 June 2026 |
-| **Quiz on India's success on Nuclear Technology** | MYBharat  | 23 June 2026 |
-| **Ocean Science For Viksit Bharat Quiz** | MYBharat| 23 June 2026 |
-| **Quiz on Women in India's Freedom Movement** | MYBharat  | 23 June 2026 |
+| **Quiz on Major Milestone of Modern India** | MYBharat | 23 June 2026 |
+| **Quiz on India's success on Nuclear Technology** | MYBharat | 23 June 2026 |
+| **Ocean Science For Viksit Bharat Quiz** | MYBharat | 23 June 2026 |
+| **Quiz on Women in India's Freedom Movement** | MYBharat | 23 June 2026 |
 | **Slogans of India Quiz** | MYBharat | 28 February 2026 |
 | **MY Bharat Budget Quest 2026** | MYBharat | 17 February 2026 |
 | **Know more about DFPD - II** | MYBharat | 17 February 2026 |
-| **Constitution Day Quiz 2026** | MYBharat | 20 November 2026 |
-| **National Education Day Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
-| **Salt Unlocked: How Well Do You Know Salt?** | MYBharat, CSIR-CSMCRI, Bhavnagar | 20 November 2026 |
-| **Banking Meets Tech Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
-| **Khelo Bharat: From Manufacturing to Podium Finish Quiz** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
-| **Nasha Mukti Yuva, Viksit Bharat Quiz** | Ministry of Social Justice and Empowerment | 20 November 2026 |
-| **Current Affair Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
-| **GK Quiz (2026-27)** | MYBharat (Ministry of Youth Affairs & Sports) | 20 November 2026 |
-| **Viksit Bharat Young Leaders Dialogue (VBYLD) Essay 2027** | MYBharat (Ministry of Youth Affairs & Sports) | 21 October 2026 |
